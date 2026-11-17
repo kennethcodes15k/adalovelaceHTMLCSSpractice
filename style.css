@@ -1,7 +1,30 @@
-body {
-  background-color: lightblue;
+* {
+  background-color:#248000;
 }
-
 h1 {
-  color: darkblue;
+  font-size:30px;
+  font-family:Georgia;
+  text-align:center;
+  color:#e6a100;
+  margin-top:0px;
+  margin-bottom:5px;
+}
+h2 {
+  font-size:25px;
+  font-family:Georgia;
+  margin-bottom:5px;
+}
+h3, h4 {
+  font-size:25px;
+  font-family:Georgia;
+  border-top-style:solid;
+  border-top-color:#ffffff;
+  padding-top:30px;
+  margin-bottom:5px;
+}
+p {
+  font-size:18px;
+  font-family:Georgia;
+  margin-top:5px;
+  margin-bottom:5px;
 }
